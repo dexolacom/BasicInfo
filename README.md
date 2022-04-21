@@ -11,5 +11,6 @@
 - - useWeb3Contract (hooks).
 - https://github.com/zAndrey95/startAPINodeGraphQLApollo - Basic node.js server (Node.js, GraphQL, Apollo, PostgresQL, Sequelize)
 - https://github.com/techbandorg/solanaConnectorNpm - Solana wallet connector
+- https://github.com/techbandorg/web3ConnectorNPM - Web3 React wallet connector (default: metamask, trust, coinbase, formatic, etc)
 
 
