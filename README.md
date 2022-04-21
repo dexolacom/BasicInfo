@@ -9,5 +9,6 @@
 - - Numeric input (component);
 - - useWeb3Contract (hooks).
 - https://github.com/zAndrey95/startAPINodeGraphQLApollo - Basic node.js server (Node.js, GraphQL, Apollo, PostgresQL, Sequelize)
+- https://github.com/techbandorg/solanaConnectorNpm - Solana wallet connector
 
 
